@@ -3,7 +3,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InvokeAI-colab/blob/main/InvokeAI_colab.ipynb) | InvokeAI_colab v3.0.1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Navezjt/InvokeAI-colab/blob/main/InvokeAI_colab.ipynb) | InvokeAI_colab v3.0.1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarrenWardo/InvokeAI-colab/blob/main/InvokeAI.ipynb) | InvokeAI (thanks to @BarrenWardo ❤)
 
 ## Tutorial 
